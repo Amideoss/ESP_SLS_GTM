@@ -1,1 +1,1 @@
-1.0.2|https://raw.githubusercontent.com/Amideoss/ESP_SLS_GTM/main/firmware_v1_0_2.bin
+1.0.2
